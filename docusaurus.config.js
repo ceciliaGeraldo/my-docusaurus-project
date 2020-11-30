@@ -10,12 +10,12 @@
 module.exports = {
   title: 'Cecy Geraldo 👩🏼‍💻',
   tagline: 'Bienvenides a mi espacio virtual',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://ceciliaGeraldo.github.io',
+  baseUrl: '/my-docusaurus-project',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'ceciliaGeraldo', // Usually your GitHub org/user name.
-  projectName: 'my-docusaurus-blog', // Usually your repo name.
+  projectName: 'my-docusaurus-project', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Cecy Geraldo 🚀',
