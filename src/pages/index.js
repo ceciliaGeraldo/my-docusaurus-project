@@ -27,12 +27,11 @@ const features = [
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Me presento',
+    imageUrl: 'img/my-photo.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+      Me llamo Cecilia Geraldo pero llámame Cecy. Soy apasionada por la tecnología e innovación y siento una profunda vocación por la inclusión de mujeres al área TI. Pertenezco a la generación 011 de Laboratoria 🇨🇱  Egresé como Front End Developer en Marzo del 2020 y actualmente llevo 8 meses trabajando de forma remota en <code>Thoughtworks</code> como Developer Consultant.
       </>
     ),
   },
@@ -68,7 +67,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`Mi espacio virtual 🚀 | ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
@@ -80,8 +79,8 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to={useBaseUrl('rrss/')}>
+              Conectemos 🙋🏼‍♀
             </Link>
           </div>
         </div>

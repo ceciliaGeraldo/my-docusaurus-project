@@ -8,19 +8,19 @@
  */
 
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
+  title: 'Cecy Geraldo 👩🏼‍💻',
+  tagline: 'Bienvenides a mi espacio virtual',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ceciliaGeraldo', // Usually your GitHub org/user name.
+  projectName: 'my-docusaurus-blog', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Facebook Project',
+      title: 'Cecy Geraldo 🚀',
       logo: {
-        alt: 'My Facebook Project Logo',
+        alt: 'Cecy Geraldo Logo a blonde girl sitted in front of the pc emoji',
         src: 'img/logo.svg',
       },
       items: [
@@ -31,9 +31,10 @@ module.exports = {
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'rrss', label: 'RRSS', position: 'left'},
         // Please keep GitHub link to the right for consistency.
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/ceciliaGeraldo',
           label: 'GitHub',
           position: 'right',
         },
