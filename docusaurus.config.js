@@ -11,7 +11,7 @@ module.exports = {
   title: 'Cecy Geraldo 👩🏼‍💻',
   tagline: 'Bienvenides a mi espacio virtual',
   url: 'https://ceciliaGeraldo.github.io',
-  baseUrl: '/my-docusaurus-project',
+  baseUrl: '/my-docusaurus-project/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'ceciliaGeraldo', // Usually your GitHub org/user name.
